@@ -26,8 +26,8 @@
   <a href="https://github.com/haimo724">
     <img height="230px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haimo724&theme=react" />
   </a><br>
-  <a href="https://github.com/YongzeYang">
-    <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimo724&theme=react" />
+  <a href="https://github.com/haimo724">
+    <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimo724&langs_count=8&theme=react" />
   </a>
 </p>
 
