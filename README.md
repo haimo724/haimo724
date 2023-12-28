@@ -7,9 +7,9 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
-- 🧑‍🎓 I’m currently studying for a Master's degree at the University of Bristol.
+- 🧑‍🎓 Msc from the University of Bristol.
 - 🎓 Bachelor's degree in Software Engineering from NWPU. 
-- 😜 I'm interested in the fields of front-end (web application) and signal processing.
+- 😜 I'm interested in Web development (front-end and back-end) and signal processing.
 - 📄 I did a period of research in the area of DOA estimation (one direction of array signal processing) and presented a conference paper as a first author.[The paper here](https://ieeexplore.ieee.org/document/10050603) 🚗.
 - 💭 Be free to ask me about anything.(Wechat<img alt="" height="30px" src="wechat.svg" />:13437119766/Email<img alt="" height="30px" src="e-mail-symbol.svg" />:haimo724@qq.com)
 
